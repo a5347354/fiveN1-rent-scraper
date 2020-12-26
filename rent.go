@@ -30,7 +30,7 @@ type HouseInfo struct {
 	Ping       string `json:"ping"` // a.k.a 坪數
 	Floor      string `json:"floor"`
 	Price      string `json:"price"`
-	IsNew      bool   `json:"isNew"`
+	IsNew      bool   `json:"isNew"` // new
 }
 
 // Options is the representation query argument.
