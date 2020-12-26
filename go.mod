@@ -1,4 +1,4 @@
-module github.com/neighborhood999/fiveN1-rent-scraper
+module github.com/a5347354/fiveN1-rent-scraper
 
 go 1.13
 
